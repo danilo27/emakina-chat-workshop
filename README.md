@@ -3,7 +3,7 @@ Kroz terminal/CMD pozicionirajte se u folder public/js i pokrenite komande:
 - npm install -g browserify
 - browserify main.js > bundle.js
 
-Svu logiku mozete pisati u main.js fajlu. Nakon svake promene koda, potrebno je ponovo pokrenuti gore pomenutu komandu (browserify main.js > bundle.js), kako bi se izgenerisao novi bundle.js fajl.
+Svu logiku pisati u main.js fajlu. Nakon svake promene koda, potrebno je ponovo pokrenuti gore pomenutu komandu (browserify main.js > bundle.js), kako bi se izgenerisao novi bundle.js fajl.
 Otvorite public/index.html fajl u browser-u.
 
 TODO:
