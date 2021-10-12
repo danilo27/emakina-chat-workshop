@@ -1,0 +1,17 @@
+{
+  "name": "emakinachat",
+  "version": "1.0.0",
+  "description": "Realtime chat app with rooms",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "moment": "^2.24.0",
+    "node-fetch": "2.6.1",
+    "socket.io": "^3.0.0",
+    "socket.io-client": "^4.2.0",
+    "socketio-file-upload": "^0.7.3"
+  }
+}
